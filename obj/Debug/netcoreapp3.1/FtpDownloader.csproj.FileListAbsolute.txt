@@ -1,0 +1,17 @@
+D:\visual_studio\FTPdownloader\FtpDownloader\obj\Debug\netcoreapp3.1\FtpDownloader.csprojAssemblyReference.cache
+D:\visual_studio\FTPdownloader\FtpDownloader\obj\Debug\netcoreapp3.1\FtpDownloader.Form1.resources
+D:\visual_studio\FTPdownloader\FtpDownloader\obj\Debug\netcoreapp3.1\FtpDownloader.csproj.GenerateResource.cache
+D:\visual_studio\FTPdownloader\FtpDownloader\obj\Debug\netcoreapp3.1\FtpDownloader.AssemblyInfoInputs.cache
+D:\visual_studio\FTPdownloader\FtpDownloader\obj\Debug\netcoreapp3.1\FtpDownloader.AssemblyInfo.cs
+D:\visual_studio\FTPdownloader\FtpDownloader\obj\Debug\netcoreapp3.1\FtpDownloader.csproj.CoreCompileInputs.cache
+D:\visual_studio\FTPdownloader\FtpDownloader\bin\Debug\netcoreapp3.1\FtpDownloader.exe
+D:\visual_studio\FTPdownloader\FtpDownloader\bin\Debug\netcoreapp3.1\FtpDownloader.deps.json
+D:\visual_studio\FTPdownloader\FtpDownloader\bin\Debug\netcoreapp3.1\FtpDownloader.runtimeconfig.json
+D:\visual_studio\FTPdownloader\FtpDownloader\bin\Debug\netcoreapp3.1\FtpDownloader.runtimeconfig.dev.json
+D:\visual_studio\FTPdownloader\FtpDownloader\bin\Debug\netcoreapp3.1\FtpDownloader.dll
+D:\visual_studio\FTPdownloader\FtpDownloader\bin\Debug\netcoreapp3.1\FtpDownloader.pdb
+D:\visual_studio\FTPdownloader\FtpDownloader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\visual_studio\FTPdownloader\FtpDownloader\obj\Debug\netcoreapp3.1\FtpDownloader.csproj.CopyComplete
+D:\visual_studio\FTPdownloader\FtpDownloader\obj\Debug\netcoreapp3.1\FtpDownloader.dll
+D:\visual_studio\FTPdownloader\FtpDownloader\obj\Debug\netcoreapp3.1\FtpDownloader.pdb
+D:\visual_studio\FTPdownloader\FtpDownloader\obj\Debug\netcoreapp3.1\FtpDownloader.genruntimeconfig.cache
